@@ -1,0 +1,14 @@
+# Ignore Firebase service account credentials
+WebAPI/bin/Debug/net8.0/Config/hondamaintenance-f06a8-firebase-adminsdk-5qbhs-10b85627e2.json
+
+# Ignore build output directories
+/bin/
+/obj/
+
+# Ignore .NET user-specific files
+*.user
+*.lock.json
+
+# Ignore temporary files
+*.tmp
+*.log
