@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danh sách người dùng</title>
+</head>
+<body>
+    <h1>Danh sách người dùng</h1>
+    <ul id="user-list"></ul>
+
+    <script>
+        // URL của API bạn đã tạo
+        const apiUrl = 'https://localhost:7190/api/Users/all';
+
+        // Gọi API và hiển thị dữ liệu lên giao diện
+        fetch(apiUrl)
+            .then(response => response.json())  // Chuyển đổi dữ liệu API trả về thành JSON
+            .then(data => {
+                const userList = document.getElementById('user-list');
+
+                // Hiển thị mỗi người dùng lên trang web
+                data.forEach(user => {
+                    const listItem = document.createElement('li');
+                    listItem.textContent = `${user.Username} - ${user.Fullname}`;
+                    userList.appendChild(listItem);
+                });
+            })
+            .catch(error => {
+                console.error('Có lỗi xảy ra khi lấy dữ liệu từ API:', error);
+            });
+    </script>
+</body>
+</html>
