@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "eJOPIpV/DZOyWLLPyylSN7I/dP5uEq81dDr9ArIhrN8=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\wwwroot\\images\\5b7c0a11-f69a-439a-af35-67c2211e119a_2_cawm.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "images/5b7c0a11-f69a-439a-af35-67c2211e119a_2_cawm.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5b7c0a11-f69a-439a-af35-67c2211e119a_2_cawm.jpg"
+    }
+  ]
+}
