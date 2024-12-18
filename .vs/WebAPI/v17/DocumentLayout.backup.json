@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\controllers\\repairschedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\repairschedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\controllers\\testdriveschedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\testdriveschedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\data\\updatetestdriverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\updatetestdriverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\data\\testdriveschedules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\testdriveschedules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\data\\servicebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\servicebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\data\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\data\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\data\\bannerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\bannerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\data\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\controllers\\billingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\billingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|d:\\nam_4\\hk1_final\\final\\webapi\\webapi\\data\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA50A69-8860-4774-90B9-900B2B4C8432}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\ProductDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\ProductDto.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\ProductDto.cs",
+              "RelativeToolTip": "WebAPI\\Data\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:42:27.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceBill.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\ServiceBill.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\ServiceBill.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\ServiceBill.cs",
+              "RelativeToolTip": "WebAPI\\Data\\ServiceBill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:44:38.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestDriveSchedules.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\TestDriveSchedules.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\TestDriveSchedules.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\TestDriveSchedules.cs",
+              "RelativeToolTip": "WebAPI\\Data\\TestDriveSchedules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:57:44.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateTestDriveRequest.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\UpdateTestDriveRequest.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\UpdateTestDriveRequest.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\UpdateTestDriveRequest.cs",
+              "RelativeToolTip": "WebAPI\\Data\\UpdateTestDriveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:15:31.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestDriveSchedulesController.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Controllers\\TestDriveSchedulesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\TestDriveSchedulesController.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Controllers\\TestDriveSchedulesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\TestDriveSchedulesController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAArwIEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:06:39.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepairSchedulesController.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Controllers\\RepairSchedulesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\RepairSchedulesController.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Controllers\\RepairSchedulesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\RepairSchedulesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwD4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:56:20.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\Product.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\Product.cs",
+              "RelativeToolTip": "WebAPI\\Data\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:28:37.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BillDetail.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\BillDetail.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\BillDetail.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\BillDetail.cs",
+              "RelativeToolTip": "WebAPI\\Data\\BillDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:08:22.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\Banner.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\Banner.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\Banner.cs",
+              "RelativeToolTip": "WebAPI\\Data\\Banner.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:10:42.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BannerDTO.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\BannerDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\BannerDTO.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\BannerDTO.cs",
+              "RelativeToolTip": "WebAPI\\Data\\BannerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:14:20.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAIwC0BAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:51:49.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ReviewsController.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAowBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:34:01.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAswN8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:39:38.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BillingController.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Controllers\\BillingController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\BillingController.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Controllers\\BillingController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\BillingController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwC4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:11:11.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BannerController.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Controllers\\BannerController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\BannerController.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Controllers\\BannerController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\BannerController.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAwwM4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:11:18.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\Service.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\Service.cs",
+              "ToolTip": "D:\\NAM_4\\HK1_Final\\Final\\WebAPI\\WebAPI\\Data\\Service.cs",
+              "RelativeToolTip": "WebAPI\\Data\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:16:37.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
